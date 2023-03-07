@@ -1,3 +1,4 @@
 packages:
-  - package: dbt-labs/dbt-utils
-    version: 1.0.0
+  - package: fishtown-analytics/dbt_utils
+    version: 0.7.0
+
