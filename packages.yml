@@ -1,3 +1,7 @@
 packages:
   - package: fishtown-analytics/dbt_utils
     version: 0.7.0
+<<<<<<< HEAD
+=======
+
+>>>>>>> c9fa10f356be608e175f9ea20a671366268fa6e8
