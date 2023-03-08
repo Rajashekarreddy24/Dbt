@@ -3,4 +3,4 @@
 
 select *
 from {{ ref('Test') }}
-where region = Central
+where region = 'Central'
