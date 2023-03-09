@@ -8,4 +8,4 @@ default:
       user: postgres
       password: Welcome!234
       database: Airbyte
-      schema: test
+      schema: db_test
