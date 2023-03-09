@@ -3,7 +3,7 @@
 
 with source_data as (
     select * from public.sheet1
-    where region = 'Central'
+    where region = 'East'
 )
 
 select *
